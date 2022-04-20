@@ -1,0 +1,45 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* banner section header */
+header section {
+    margin-bottom: 20px;
+    height: 170px;
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+}
+
+/* logo "the booleaner" */
+.logo {
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 250px;
+}
+
+/* container per centrare */
+.container {
+    margin: 0 auto;
+    width: 98%;
+}
+
+/* titolo header */
+header h1 {
+    font-size: 50px;
+}
+
+header h2 {
+    color: #939393;
+}
+
+/* testo "the booleaner" */
+h2 span {
+    color: #3ab3e8;
+}
+
+.container > span {
+    color: #939393;
+}
