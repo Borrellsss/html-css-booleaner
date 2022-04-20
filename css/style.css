@@ -45,10 +45,42 @@ h2 span {
 }
 
 /* main section */
-main .container {
+.sezione1 p {
+    font-size: 13px;
+}
+
+main section {
     margin-top: 20px;
 }
 
-.sezione1 p {
-    font-size: 13px;
+/* lista non rdinata */
+section ul {
+    margin-left: 10px;
+}
+
+/* tabella quarta sezione */
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #20a9e5;
+}
+
+.riga-dispari {
+    background-color: #b1e5f2;
+}
+
+.long-text {
+    width: 50%;
+}
+
+th {
+    text-align: left;
+}
+
+/* quinta sezione */
+.highlighted-text {
+    background-color: yellow;
 }
