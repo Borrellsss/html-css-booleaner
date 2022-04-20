@@ -43,3 +43,12 @@ h2 span {
 .container > span {
     color: #939393;
 }
+
+/* main section */
+main .container {
+    margin-top: 20px;
+}
+
+.sezione1 p {
+    font-size: 13px;
+}
