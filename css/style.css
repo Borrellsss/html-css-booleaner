@@ -84,3 +84,33 @@ th {
 .highlighted-text {
     background-color: yellow;
 }
+
+/* footer */
+footer {
+    margin-top: 20px;
+}
+
+footer h3 {
+    color: #939393;
+}
+
+/* immagini footer */
+.footer-img {
+    margin-top: 20px;
+    padding: 20px 0 0 20px;
+    width: 300px;
+    height: 200px;
+}
+
+/* testo immagini footer */
+.footer-img h3 {
+    color: white;
+}
+
+.footer-img.first {
+    background-image: url("../img/graph.jpg") ;
+}
+
+.footer-img.second {
+    background-image: url("../img/monitor.jpg") ;
+}
